@@ -1,6 +1,6 @@
 const moment = require('moment');
 
-/* Valores que podem ser alterados parasimular várias hióteses */
+/* Valores que podem ser alterados para simular várias hipóteses */
 const dataEvento = '15/12/2021 18:30';
 const diasAntecedenciaFornecedor = 2; //PFF
 let numeroParcelasPacote = 5;
